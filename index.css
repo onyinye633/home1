@@ -3,11 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-h1{
-  display: flex;
-  align-items: center;
-  justify-self: center !important;
-}
+
 body {
   overflow-x: hidden;
 }
